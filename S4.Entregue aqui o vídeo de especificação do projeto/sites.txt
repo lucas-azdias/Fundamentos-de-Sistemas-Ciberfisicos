@@ -1,0 +1,4 @@
+ESP32  			https://produto.mercadolivre.com.br/MLB-3623520612
+Sensor de presença  	https://produto.mercadolivre.com.br/MLB-2107781175
+Relé			https://produto.mercadolivre.com.br/MLB-3005481578
+Lâmpada			https://produto.mercadolivre.com.br/MLB-1821294533

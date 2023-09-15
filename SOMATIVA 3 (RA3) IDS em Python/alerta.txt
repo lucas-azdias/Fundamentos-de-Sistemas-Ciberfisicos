@@ -1,0 +1,88 @@
+06/06/2023 10:48:26 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 10:56:11 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 10:56:11 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:24:48 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:24:48 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:24:48 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:26:09 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:26:09 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:26:09 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:26:09 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:26:09 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:26:09 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:26:09 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:31:28 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:31:28 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:31:28 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:31:28 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:31:28 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:31:28 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:31:28 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:42:01 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:42:01 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:42:01 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:42:01 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:42:01 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:42:01 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:42:01 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:42:41 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:42:41 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:42:41 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:42:41 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:42:41 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:42:41 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:42:41 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:45:27 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:45:27 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:45:27 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:45:27 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:45:27 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:45:27 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:45:27 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:45:52 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:45:52 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:45:52 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:45:52 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:45:52 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:45:52 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:45:52 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:46:32 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:46:32 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:46:32 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:46:32 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:46:32 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:46:32 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:46:32 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:46:41 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:46:41 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:46:41 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:46:41 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:46:41 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:46:41 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:46:41 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:47:53 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 11:47:53 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 11:47:53 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 11:47:54 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 11:47:54 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 11:47:54 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 11:47:54 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 11:47:54 --> O IP 10.0.2.15 esta fazendo PORT SCAN
+06/06/2023 12:00:18 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 12:00:18 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 12:00:18 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 12:00:18 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 12:00:18 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 12:00:18 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 12:00:18 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 12:00:18 --> O IP 10.0.2.15 esta fazendo PORT SCAN
+06/06/2023 12:00:19 --> O IP 7.88.9.32 esta sendo atacado por SYN ACK
+06/06/2023 12:01:05 --> O IP 33.45.9.23 esta fazendo ICMP Flood
+06/06/2023 12:01:05 --> O IP 10.95.32.205 esta sendo ATACADO por ICMP Flood (DISTRIBUIDO)
+06/06/2023 12:01:05 --> O IP 10.0.2.15 esta fazendo SYN Flood
+06/06/2023 12:01:05 --> O IP 44.25.32.17 esta sendo atacado SYN Flood
+06/06/2023 12:01:05 --> O IP 192.168.56.1 esta sendo atacado SYN Flood
+06/06/2023 12:01:05 --> O IP 172.18.160.1 esta sendo atacado SYN Flood
+06/06/2023 12:01:05 --> O IP 10.95.32.205 esta sendo atacado SYN Flood
+06/06/2023 12:01:05 --> O IP 10.0.2.15 esta fazendo PORT SCAN
+06/06/2023 12:01:05 --> O IP 7.88.9.32 esta sendo atacado por SYN ACK
